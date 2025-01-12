@@ -1,0 +1,1 @@
+f=mp4 vcodec=hevc_nvenc width=3440 height=1440 sample_aspect_num=1 sample_aspect_den=1 display_aspect_num=43 display_aspect_den=18 frame_rate_num=60 frame_rate_den=1 progressive=1 cbr=1 vb=20000k vminrate=20000k vmaxrate=20000k vbufsize=0 acodec=aac channels=2 ar=48000 ab=320k cbr=1 cbr=1 real_time=-4 threads=0
